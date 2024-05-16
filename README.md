@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ConCapbreton
 - 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning Javascript on FreeCodeCamp (having recently completed the html / css certification.
-- 💞️ I’m looking to collaborate on anything to build up my experience!
+- 🌱 I’m currently learning Javascript on FreeCodeCamp (having recently completed the html / css certification).
+- 💞️ I’m looking to collaborate on anything to build up my experience.
 - 📫 How to reach me - drop me a mail: connorsexton@hotmail.com 
 - ⚡ Fun fact: I surf!
 
